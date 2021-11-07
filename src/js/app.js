@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 export default function returnArrAttacks(object) {
   const arrSpecialAttacks = [];
   object.special.forEach((element) => {

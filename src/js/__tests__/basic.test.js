@@ -1,4 +1,5 @@
-import returnArrAttacks from '../app.js';
+/* eslint-disable linebreak-style */
+import returnArrAttacks from '../app';
 
 const character = {
   name: 'Лучник',
